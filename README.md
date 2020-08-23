@@ -47,11 +47,6 @@ $ pip install aws-cdk.aws-s3
 $ pip freeze
 ```
 
-### - Write dependencies on requirements
-```sh
-$ pip freeze
-```
-
 ### - Write import bucket code on app/app_stack.py
 ```python
 from aws_cdk import (
